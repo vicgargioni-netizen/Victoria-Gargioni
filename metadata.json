@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Trilha Escoteira",
+  "description": "Um simulador imersivo em primeira pessoa para treinamento de sinais de pista escoteiros em uma floresta 3D.",
+  "requestFramePermissions": []
+}
